@@ -42,16 +42,23 @@ This script is ideal for students, ethical hackers, data analysts, and anyone lo
 
 # Installation
 
-Step 1: Install Required Packages
+# Termux Python,Git,dependencies 
+pkg update -y && pkg upgrade -y
+pkg install python git -y
 
-pkg update && pkg install python -y
-pip install requests beautifulsoup4 colorama validators
+Clone Repo 
+git clone https://github.com/TAYYAB-Exploits/NoScrape-Pro-
 
-Step 2: Clone the Repository
+directory 
+cd NoScrape-Pro
 
-git clone https://github.com/TayyabExploits/WebScraperV2
-cd WebScraperV2
-python scraper.py
+ Python dependencies 
+pip install -r requirements.txt
+
+Run 
+```bash
+python noscrape.py
+```
 
 > You can also manually create a .py file and paste the code into it.
 
@@ -165,9 +172,9 @@ This tool is provided for educational and ethical purposes only. Do not use it f
 
 # Connect & Support
 
-#YouTube Channel: @TayyabExploits
+# YouTube Channel: @TayyabExploits
 
-#GitHub: github.com/TayyabExploits
+# GitHub: github.com/TayyabExploits
 
 
 > Support the project by liking, sharing, and subscribing on YouTube!
