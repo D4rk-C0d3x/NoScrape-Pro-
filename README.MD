@@ -1,6 +1,6 @@
 # Web Data Extractor v1.0 (Pro Edition) – Termux Friendly
 
-Created by: TayyabExploits
+Created by: 𝗧𝗔𝗬𝗬𝗔𝗕 𝗘𝗫𝗣𝗟𝗢𝗜𝗧𝗦
 
 YouTube: https://www.youtube.com/@TayyabExploits
 
