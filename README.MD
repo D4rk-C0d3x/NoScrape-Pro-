@@ -1,4 +1,4 @@
-Web Data Extractor v2.0 (Pro Edition) – Termux Friendly
+# Web Data Extractor v2.0 (Pro Edition) – Termux Friendly
 
 Created by: TayyabExploits
 YouTube: @TayyabExploits
