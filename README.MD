@@ -7,7 +7,7 @@ GitHub: github.com/TayyabExploits
 
 ---
 
-Overview
+# Overview
 
 Web Data Extractor v2.0 is a powerful and enhanced web scraping tool designed specifically for command-line and Termux users. It extracts essential data from any website and presents it in a clean, colorful, and structured format.
 
@@ -16,7 +16,7 @@ This script is ideal for students, ethical hackers, data analysts, and anyone lo
 
 ---
 
-Features
+# Features
 
 ✅ Beautiful color-coded CLI output using colorama
 
@@ -40,7 +40,7 @@ Features
 
 ---
 
-Installation
+# Installation
 
 Step 1: Install Required Packages
 
@@ -60,7 +60,7 @@ python scraper.py
 
 ---
 
-How to Use
+# How to Use
 
 1. Run the script:
 
@@ -93,7 +93,7 @@ Image URLs
 
 ---
 
-Example Output
+# Example Output
 
 📄 Title: Example Domain
 🌐 Language: en
@@ -123,14 +123,14 @@ website: 2
 
 ---
 
-Output File
+# Output File
 
 If you select "yes" when asked to save the data, a file called scrape_result.txt will be created containing all structured output.
 
 
 ---
 
-Compatible With
+# Compatible With
 
 Android (via Termux)
 
@@ -144,7 +144,7 @@ macOS
 
 ---
 
-Troubleshooting
+# Troubleshooting
 
 Invalid URL? Make sure to include https:// in your input.
 
@@ -156,18 +156,18 @@ Empty output? The website may have anti-scraping protections.
 
 ---
 
-License
+# License
 
 This tool is provided for educational and ethical purposes only. Do not use it for illegal or malicious activities.
 
 
 ---
 
-Connect & Support
+# Connect & Support
 
-YouTube Channel: @TayyabExploits
+#YouTube Channel: @TayyabExploits
 
-GitHub: github.com/TayyabExploits
+#GitHub: github.com/TayyabExploits
 
 
 > Support the project by liking, sharing, and subscribing on YouTube!
