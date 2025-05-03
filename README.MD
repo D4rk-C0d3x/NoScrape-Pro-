@@ -1,7 +1,9 @@
 # Web Data Extractor v1.0 (Pro Edition) – Termux Friendly
 
 Created by: TayyabExploits
-YouTube: @TayyabExploits
+
+YouTube: https://www.youtube.com/@TayyabExploits
+
 GitHub: github.com/TayyabExploits
 
 
@@ -17,8 +19,6 @@ This script is ideal for students, ethical hackers, data analysts, and anyone lo
 ---
 
 # Features
-
-✅ Beautiful color-coded CLI output using colorama
 
 ✅ Extracts Title, Meta Description, and HTML Language
 
