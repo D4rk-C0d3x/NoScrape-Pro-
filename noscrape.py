@@ -18,8 +18,11 @@ def banner():
 ██║ ╚████║╚██████╔╝███████╗██║  ██║███████║
 ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
      Web Data Extractor v2.0 (Pro)
- By: TayyabExploits | Termux Edition | 🔥
- YouTube: @TayyabExploits | GitHub: github.com/TayyabExploits
+ By: 𝗧𝗔𝗬𝗬𝗔𝗕 𝗘𝗫𝗣𝗟𝗢𝗜𝗧𝗦 
+ Termux Edition 🔥
+ 
+YouTube: @TayyabExploits 
+ GitHub: github.com/TayyabExploits
     """ + Style.RESET_ALL)
 
 def clean_text(text):
