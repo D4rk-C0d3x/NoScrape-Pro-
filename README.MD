@@ -1,4 +1,4 @@
-# Web Data Extractor v2.0 (Pro Edition) – Termux Friendly
+# Web Data Extractor v1.0 (Pro Edition) – Termux Friendly
 
 Created by: TayyabExploits
 YouTube: @TayyabExploits
@@ -42,18 +42,26 @@ This script is ideal for students, ethical hackers, data analysts, and anyone lo
 
 # Installation
 
-# Termux Python,Git,dependencies 
+Termux Python,Git,dependencies 
+```bash
 pkg update -y && pkg upgrade -y
 pkg install python git -y
+```
 
 Clone Repo 
+```bash
 git clone https://github.com/TAYYAB-Exploits/NoScrape-Pro-
+```
 
 directory 
+```bash
 cd NoScrape-Pro
+```
 
  Python dependencies 
+```bash
 pip install -r requirements.txt
+```
 
 Run 
 ```bash
@@ -172,7 +180,7 @@ This tool is provided for educational and ethical purposes only. Do not use it f
 
 # Connect & Support
 
-# YouTube Channel: @TayyabExploits
+YouTube Channel: https://www.youtube.com/@TayyabExploits
 
 # GitHub: github.com/TayyabExploits
 
