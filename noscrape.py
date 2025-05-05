@@ -19,7 +19,7 @@ def banner():
 ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
      Web Data Extractor v1.0 (Pro)
         
-              By: 𝗧𝗔𝗬𝗬𝗔𝗕 𝗘𝗫𝗣𝗟𝗢𝗜𝗧𝗦 
+              By: C0D3 BR34K3R 
               Termux Edition 🔥
  
 YouTube: @TayyabExploits 
